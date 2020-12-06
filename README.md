@@ -1,5 +1,5 @@
 # Marbelous Level Editor
-Un ity Package file for Marbelous Level Editor.
+Unity Package file for Marbelous Level Editor.
 
 Allows anyone to make custom maps for the game Marbelous.
 
