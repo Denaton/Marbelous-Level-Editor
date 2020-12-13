@@ -12,6 +12,7 @@ Tested on Unity Version: 2020.1.15f1
 1. Create a new project and set a project name.
 1. [Download](https://github.com/Denaton/Marbelous-Level-Editor/archive/main.zip) this project and unzip the `Marbelous Level Editor.unitypackage` file.
 1. Drag the `Marbelous Level Editor.unitypackage` file into the Unity Engine.
+1. Press Import.
 1. You can now start to crerate a map.
 
 ## Tutorials
