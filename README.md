@@ -3,7 +3,7 @@ Unity Package file for Marbelous Level Editor.
 
 Allows anyone to make custom maps for the game Marbelous.
 
-## Version 0.1
+## Version 0.2
 Tested on Unity Version: 2020.1.15f1
 
 ## Install
